@@ -1,6 +1,0 @@
-{
-    "hosting": {
-      "site": "s2i-medapp-e5c51",
-      "public": "public/app/page.jsx"
-    }
-  }
