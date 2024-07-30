@@ -1,14 +1,16 @@
 # Medit-App 
 
-is an application designed to help users meditate using an integrated timer. This README file provides an overview of the project, the file structure, and instructions on how to start and use the application.
+This is an application designed to help users meditate using an integrated timer. This README file provides an overview of the project, the file structure, and instructions on how to start and use the application.
 
 ## Project Structure
 
 ### Components
 Header: The website header with the logo and navigation links.
-Body: The main body of the homepage with a brief introduction.
+Home: The main body of the application, here you can see the Timer: A component that manages the meditation timer.
 Footer: The website footer.
-Timer: A component that manages the meditation timer.
+
+Every page has a header, main, and footer. The header contains the logo and navigation links. The footer contains the copyright information. The main contains the Timer component. There's a page wich contains a little Meditation Guide.
+
 
 #### Getting Started
 
@@ -26,7 +28,8 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### Try it out
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+follow this link to try it out:
 
+https://s2i-medapp-ac1cc.web.app
