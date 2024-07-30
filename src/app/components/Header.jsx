@@ -31,7 +31,7 @@ const Header = () => {
       <Link href="/" className="flex items-center text-2xl font-bold">
         <div className="relative w-10 h-10 mr-2">
           <Image
-            src="/hLogo.png"
+            src="/logo.png"
             alt="Meditation Logo"
             sizes="(max-width: 768px) 100vw, 50vw"
             fill

@@ -1,6 +1,7 @@
 'use client';
 import Image from 'next/image';
 
+
 const Body = () => (
   <div className="text-center text-[#0D1B2A] w-full">
     <div className="relative w-full h-[60vh] mb-4">
